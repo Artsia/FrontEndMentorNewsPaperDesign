@@ -82,7 +82,7 @@ p{
 /*bright..text section*/
 .text-item{
     color:hsl(240, 100%, 5%);
-    width: 50%;
+    width: 40%;
 }
 
 .ptbi{
@@ -92,11 +92,6 @@ p{
 
 }
  
-.text-item h1{
-    margin:0px 10px;
-    
-}
-
 .text-button-item{
     width: 400px;
 }
@@ -129,6 +124,10 @@ p{
 .news-items{   
     border-bottom: 1px solid white;
     margin: 45px 15px; 
+}
+
+.news-items h3:hover{
+    color: orange;
 }
 
 
@@ -174,6 +173,10 @@ p{
 
 .info-item h3{
     color:hsl(240, 100%, 5%);
+}
+
+.info-item h3:hover{
+    color:orange;
 }
 
 .info-item p{
