@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - News Home Page solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [ News Home Page challenge on Frontend Mentor]https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Users should be able to:
 ## Links
 
 - Solution URL:  https://github.com/Artsia/FrontEndMentorNewsPaperDesign
-- Live Site URL: https://product-preview-hover-frontendio.netlify.app/
+- Live Site URL: https://phillip-kataswa-html-css.netlify.app/
 
 ## My process
 
